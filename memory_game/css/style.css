@@ -34,7 +34,7 @@ main {
 }
 
 p {
-	font-family: 'Droid Serif', Serif;
+	font-family: "Droid Serif", Serif;
 	line-height: 26px;
 	font-size: 18px;
 }
@@ -64,7 +64,7 @@ h1, h2, h3 {
 }
 
 img {
-	margin: 40px 8px;
+	margin: 40px 8px 40px 8px;
 }
 
 footer {
@@ -102,4 +102,20 @@ footer {
 
 a:hover {
 	border-color: white;
+}
+
+#linkedin {
+	text-align: center;
+}
+
+#facebook {
+	text-align: center;
+}
+
+#instagram {
+	text-align: center;
+}
+
+button {
+	position: absolute;
 }
